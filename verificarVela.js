@@ -19,7 +19,7 @@ function validarStatus()
     }
 }
 
-
+/*Funcion que enciende la vela*/
 function encenderVela()
 {
   if(document.getElementById('cerillos').checked)
